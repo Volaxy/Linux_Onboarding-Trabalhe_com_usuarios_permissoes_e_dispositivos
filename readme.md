@@ -39,5 +39,16 @@ URL do curso -> [Linux Onboarding - Trabalhe com Usuários Permissões e Disposi
 * Mudar a permissão de um diretório.
 * Criar um *target*.
 
+## 03 - Gerenciamento de Pacotes
+
+### 01 - Gerenciamento de Pacotes com o apt
+* Sincronizar os repositórios.
+* Procurar pacotes específicos.
+* Mostrar detalhes de um pacote.
+
+### 02 - Informações e Upgrades dos Pacotes Instalados
+* Remover um pacote.
+* Listar pacotes.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
