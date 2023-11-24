@@ -28,5 +28,16 @@ URL do curso -> [Linux Onboarding - Trabalhe com Usuários Permissões e Disposi
 * Adicionar um usuário a um grupo.
 * Apagar um usuário ou grupo.
 
+## 02 - Por Dentro dos Permissionamentos
+
+### 01 - Entendendo o Permissionamento dos Arquivos e Diretórios
+* Separação das permissões de um item ao digitar `ls -l`.
+* Representação númeral das permissões.
+
+### 02 - Alterando as Permissões, Donos e Grupos
+* Permissionamento padrão ao criar um diretório.
+* Mudar a permissão de um diretório.
+* Criar um *target*.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
