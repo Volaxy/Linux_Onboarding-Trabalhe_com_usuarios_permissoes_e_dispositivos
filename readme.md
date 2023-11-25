@@ -50,5 +50,22 @@ URL do curso -> [Linux Onboarding - Trabalhe com Usuários Permissões e Disposi
 * Remover um pacote.
 * Listar pacotes.
 
+## 04 - Gerenciamento de Disco
+
+### 01 - Instalando e Particionando um Novo Disco
+* Ver informações do disco.
+* Entrar no modo de partição de disco.
+
+### 02 - Instalando o Fyle System ext4
+* Definir o *fyle system* de um disco.
+
+### 03 - Montando o Disco de Forma Automática
+* Montar um disco em uma pasta.
+* Mostrar o *UUID* dos dispositivos.
+* Especificar a montagem do disco na inicialização do sistema.
+
+### 04 - Testando a Inicialização do dispositivo
+* Usar um comando para montar os discos para verificar se a montagem está funcionando corretamente.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
