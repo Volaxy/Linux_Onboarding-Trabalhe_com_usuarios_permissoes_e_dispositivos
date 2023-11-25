@@ -67,5 +67,12 @@ URL do curso -> [Linux Onboarding - Trabalhe com Usuários Permissões e Disposi
 ### 04 - Testando a Inicialização do dispositivo
 * Usar um comando para montar os discos para verificar se a montagem está funcionando corretamente.
 
+## 05 - Systemd - Gerenciando os Serviços
+
+### 01 - Gerenciando Serviços
+* Mostrar o status de um serviço.
+* Iniciar/Parar um serviço.
+* Impedir um serviço de iniciar junto com o sistema.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
